@@ -1,0 +1,27 @@
+label {
+    color: rgb(219, 19, 19);
+    background-color: gold;
+    height: 200px;
+    border-radius: 10px;
+}
+form{
+
+    background-color: rgb(201, 173, 173);
+    height: 400px;
+    width: 410px;
+    padding: 60px 20px;
+    border: 5px solid gold;
+}
+.caja{
+
+    background-color: rgb(189, 167, 211);
+    width: 450px;
+    border: 5px double #000;
+}
+
+body{
+
+    background: #222;
+
+}
+
